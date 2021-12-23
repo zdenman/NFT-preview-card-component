@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](http://nft-preview-card-component-omega.vercel.app/)
+- Live Site URL: [here](http://nft-preview-card-component-omega.vercel.app/)
 
 ### Built with
 
